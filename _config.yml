@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Chris A Hammerschmit
+title: Chris A Hammerschmidt
 email: lastname at posteo dot de
 description: >- # this means to ignore newlines until "baseurl:"
   Informatics researcher turned entrepreneur. Via FAU Erlangen-Nuremberg, TU Berlin, University Luxembourg and TU Delft to APTA Technologies.

@@ -4,12 +4,11 @@
 
 layout: home
 ---
+# About Chris A. Hammerschmidt
 
-
+I am also working on APTA Technologies, a spin-off company offering services and solutions for analyzing sequential, computer-generated data.
 
 I am a PostDoc in the Cyber Security Group at the Intelligent Systems Department at the TU Delft. I work on machine learning methods for reverse engineering. Together with  Sicco Verwer, I apply these methods both in network security and software testing.
-
-Together with Sicco Verwer, I am also working on APTA Technologies, a spin-off company offering services and solutions for analyzing sequential, computer-generated data.
 
 Before coming to Delft, I successfully defended my Ph.D. thesis at the Interdisciplinary Centre for Security, Reliability and Trust, which is part of the University of Luxembourg. I spent my time in the Service and Data Management (SEDAN) group headed by Radu State. I still regularly work with SEDAN.
 About my Work
@@ -22,7 +21,9 @@ I also built on Sicco Verwer’s DFASAT tool to build flexfringe, a tool to defi
 Recent Activities
 
 Together with a team of colleages from TU Delft, we won the KDD Adversarial Machine Learning Workshop’s Robust Learning challenge both on the attack and defend tracks. Details of the results are available online.
-Publications
+## Further Information
+
+### Publications
 
 Recent publications:
 
@@ -31,16 +32,17 @@ See my ORCID, Google Scholar, and orbilu@uni.lu pages.
 Besides academic work and publications, I am also trying to blog over at automatonlearning.net and my personal blot, cinrizasti.
 Talks
 
-Talks given in 2019
+### Talks given in 2019
 
     Generative Neural Models for discrete and tabular data at the Cyber Security seminar at TU Delft
 
-About my Background
+### About my Background
 
 After passing the undergrad portion of my computer science diploma degree at the FAU Erlangen-Nürnberg In Germany, I concentrated on mathematical methods and theoretic foundations in computer sciences, taking classes on numerics of partial differential equations, functional analysis, simulation on high performance systems as well as algebra, information and quantum information theory, logic, complexity theory, and cryptography.
 
 Towards the end of my program, I moved to Berlin and joined Uwe Nestmann’s group on models and theory of distributed systems as a student researcher. Both my undergrad and graduate (“Studienarbeit” and “Diplomarbeit”) theses were written during my time in Berlin, where I worked on a project investigating the expressive power of distributed modeling languages, in particular variants of Petri nets, CCS, pi calculi, and the join calculus. In my theses, I looked at reactive systems and contextual transition systems of Robin Milner’s bigraphs. I encoded some calculi into bigraphs in such that the encoding respects not only bisimulations but accounts for also step-readiness semantics.
-Interests
+
+### Interests
 
 I enjoy a solid balance between working in the abstract, i.e. using formal systems and investigating their potential and limits, and having impactful, hands-on results in the real world. Answering questions about the expressive power and capability to predict or explain the world fascinates me as much as having a practical way to exploit the answers to these questions.
 
