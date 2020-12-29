@@ -4,23 +4,24 @@
 
 layout: home
 ---
-# About Chris A. Hammerschmidt
 
 I am also working on APTA Technologies, a spin-off company offering services and solutions for analyzing sequential, computer-generated data.
 
-I am a PostDoc in the Cyber Security Group at the Intelligent Systems Department at the TU Delft. I work on machine learning methods for reverse engineering. Together with  Sicco Verwer, I apply these methods both in network security and software testing.
+Until Spring 2021, I am also a PostDoc researcher in the Cyber Security Group at the Intelligent Systems Department at the TU Delft. I work on machine learning methods for cyber data application, in particular but not limited to reverse engineering software from log/trace data.
+Together with  Sicco Verwer, I apply these methods both in network security and software testing.
 
 Before coming to Delft, I successfully defended my Ph.D. thesis at the Interdisciplinary Centre for Security, Reliability and Trust, which is part of the University of Luxembourg. I spent my time in the Service and Data Management (SEDAN) group headed by Radu State. I still regularly work with SEDAN.
 About my Work
 
-I am interested in machine learning and its applications, in particular in protocol and program inference, and program analysis with applications in software engineering and cyber-security. More specifically, and I want to learn a model that converts a sequence of observations (or inputs) into a sequence of responses (or outputs). Ideally, the model is not just a magic black box, but is a description of an operational or computational process, explaining how to convert the input to the output. With that in mind, I like to think about interpretability and explainability. Recent work of interest in the field of machine learning includes neural models for program synthesis (and to a lesser extent, also induction).
-Recently, I am also working, though to a lesser extent, on learning representations of discrete and structured data.
+I am interested in machine learning and its applications, in particular in protocol and program inference, and program analysis. More specifically, and I want to learn a model that converts a sequence of observations (or inputs) into a sequence of responses (or outputs). The goal is to obtain a that model is not just a magic black box, but is a description of an operational or computational process. This models explains the behavior of the system generating the data, i.e. how to convert the input to the output.
+Recently, I am also working, though to a lesser extent, on learning representations of discrete, structured, or sequential data in unsupervised settings. In the past, this included financial transactions for fraud analysis, authentication data for computer systems, and telecommincation log data.
 
 During my Ph.D. in Luxembourg, I focused on learning models that at their core have a finite state space: (probabilistic) finite state machines, deterministic transducers like Mealy machines, and ad-hoc defined variants of finite models. Despite their limited expressive power (compared to Turing complete universal computation models), there are many useful applications of these models in computer sciences. Together with Nino Pellegrino and Qin Lin at TU Delft, we looked at network traffic and summary statistics to build models that profile and fingerprint hosts on networks.
 I also built on Sicco Verwer’s DFASAT tool to build flexfringe, a tool to define heuristics to learn a wide range of automaton models using a red-blue type of state-merging algorithm.
 Recent Activities
 
 Together with a team of colleages from TU Delft, we won the KDD Adversarial Machine Learning Workshop’s Robust Learning challenge both on the attack and defend tracks. Details of the results are available online.
+
 ## Further Information
 
 ### Publications
