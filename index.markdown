@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
@@ -15,7 +12,11 @@ I worked on machine learning methods for cyber data application, in particular b
 
 I am interested in machine learning and its applications, in particular in protocol and program inference, and program analysis. More specifically, and I want to learn a model that converts a sequence of observations (or inputs) into a sequence of responses (or outputs). The goal is to obtain a that model is not just a magic black box, but is a description of an operational or computational process. This models explains the behavior of the system generating the data, i.e. how to convert the input to the output.
 
-Recently, I am also working, though to a lesser extent, on learning representations of discrete, structured, or sequential data in unsupervised settings. In the past, this included financial transactions for fraud analysis, authentication data for computer systems, and telecommincation log data.
+Before that, I worked as a research scientist on an industrial project in Luxembourg. I used techniques for learning representations of discrete, structured, or sequential data in unsupervised settings. The field of application focused on financial transactions for KYC/AML, fraud analysis, authentication data for computer systems, and telecommincation log data.
+
+I always enjoyed supervising bachelor, master and PhD students in academia, as well as interns my start-up. I'm currently taking on mentees on Mentorcruise:
+
+<a href="https://mentorcruise.com/mentor/chrishammerschmidt/"> <img src="https://cdn.mentorcruise.com/img/banner/navy-booking-badge.svg" width="240" alt="MentorCruise"> </a>
 
 #### Recent Activities
 
@@ -25,7 +26,7 @@ Together with a team of colleages from TU Delft, we won the KDD Adversarial Mach
 
 ## Short Bio
 
-Before coming to Delft, I successfully defended my Ph.D. thesis at the Interdisciplinary Centre for Security, Reliability and Trust, which is part of the University of Luxembourg. I spent my time in the Service and Data Management (SEDAN) group headed by Radu State. #I still regularly work with SEDAN.
+Before coming to Delft, I successfully defended my Ph.D. thesis at the Interdisciplinary Centre for Security, Reliability and Trust, which is part of the University of Luxembourg. I spent my time in the Service and Data Management (SEDAN) group headed by Radu State. 
 
 Way before starting my Ph.D. I worked on problems in the theory of concurrent systems at TU Berlin, mapping process calculi into category theory construction. I graduated from FAU Erlangen-Nuremberg with a diploma in computer science.
 
