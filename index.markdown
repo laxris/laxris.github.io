@@ -60,3 +60,4 @@ The draw of the abstract and mathematical, for me personally, lies in the flexib
 
 In my free time, I enjoy learning new languages (currently, French and Dutch, you can check out my profile on Duolingo), reading (especially science fiction, thrillers and fantasy novels), and athletics (I particularly enjoy skiing whenever I have the chance).
 
+You can also find me on <a rel="me" href="https://mastodon.online/@chrshmmmr">Mastodon</a>.
