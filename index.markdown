@@ -2,7 +2,11 @@
 layout: home
 ---
 
-I am a co-founder at APTA Technologies, a spin-off company offering services and solutions for analyzing sequential, computer-generated data. 
+
+I am currently working as an applied machine learning scientist, leading ML research for a market-leading anti-bot solutions provider. I mentor researchers, lead initiatives, shape the roadmap, and conduct high-impact research on abuse, fraud, and bot mitigation products.
+
+Previously, I co-founded APTA Technologies, a TU Delft spin-off company offering services and solutions for analyzing sequential, computer-generated data. Over the years, I acted as principal IC, EM, PM, and CEO, leading teams building greenfield projects both for enterprise and SME clients, leading fundrasing efforts, and market validation. APTA Technologies focused on generating insights from software logs for various applications in the DevSecOps space, in particular incident response for endpoints. Working with managed sercurity service providers, we reduced incident response time by up to 30%.
+
 {% comment %}
 Using our machine-learning algorithms implemented in *flexfringe*, we were able to quickly identify breakdowns in large app deployments without having to write and set specific alerting rules for a large FinTech company, and to 
 {% endcomment %}
